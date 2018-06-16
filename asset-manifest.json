@@ -1,6 +1,8 @@
 {
-  "main.js": "static/js/main.76d642a7.js",
-  "main.js.map": "static/js/main.76d642a7.js.map",
+  "main.css": "static/css/main.3da2652d.css",
+  "main.css.map": "static/css/main.3da2652d.css.map",
+  "main.js": "static/js/main.2b9bd8a8.js",
+  "main.js.map": "static/js/main.2b9bd8a8.js.map",
   "static\\media\\PressStart2P-Regular.ttf": "static/media/PressStart2P-Regular.ccb1dfce.ttf",
   "static\\media\\ground-sprite.png": "static/media/ground-sprite.289184a6.png",
   "static\\media\\leftArm2-cast.png": "static/media/leftArm2-cast.cab94b3e.png",
